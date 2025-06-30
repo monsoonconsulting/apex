@@ -61,6 +61,7 @@
                     "lib-libxml": "*",
                     "magento/composer": "^1.10.1-beta1",
                     "magento/composer-dependency-version-audit-plugin": "^0.1",
+                    "magento/composer-root-update-plugin": "^2.0.3",
                     "magento/framework": "103.0.8-p1",
                     "magento/framework-amqp": "100.4.6",
                     "magento/framework-bulk": "101.0.4",
